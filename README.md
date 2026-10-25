@@ -56,6 +56,8 @@ Compiled natively, ensuring fast startup and minimal resource consumption.
 * Avalonia UI Framework (MIT License)
 * CommunityToolkit.Mvvm (MIT License)
 
+For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+
 ---
 
 ## 日本語
@@ -104,3 +106,5 @@ Native AOT技術により起動が非常に高速で、リソース消費も最�
 ### 📚 外部ライブラリ（クレジット）
 * Avalonia UI Framework (MIT License)
 * CommunityToolkit.Mvvm (MIT License)
+
+各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
